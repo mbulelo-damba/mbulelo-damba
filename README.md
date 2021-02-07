@@ -1,6 +1,6 @@
 ### Hi there 👋, 
 ### I'm Mbulelo and I love GiF animations.
-![Mbulelo](GiphyAnimations/mbu.png)
+![Mbulelo](GiphyAnimations/mbu.jpg)
 <br>
 
 ![gif-Animation](GiphyAnimations/ee.gif) ![gif-Animation](GiphyAnimations/nn.gif) ![gif-Animation](GiphyAnimations/cc.gif) ![gif-Animation](GiphyAnimations/ll.gif)
