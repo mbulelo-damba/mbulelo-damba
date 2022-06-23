@@ -1,5 +1,3 @@
-<div align="center">
-  
   
 ### Hi there 🖖🏽, 
 ### I'm Mbulelo and I love GiF animations.<div> 
@@ -26,4 +24,3 @@ Here are some ideas to get you started:
 -->
 
   
-</div>
