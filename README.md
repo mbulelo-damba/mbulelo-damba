@@ -1,6 +1,6 @@
   
 ### Hi there 🖖🏽, 
-### I'm Mbulelo and I'm a Software Developer<div> 
+### I'm Mbulelo, a Software Developer<div> 
 ![Mbulelo](GiphyAnimations/mbu.jpg) ![gif-Animation](GiphyAnimations/ee.gif) ![gif-Animation](GiphyAnimations/nn.gif) </div>![gif-Animation](GiphyAnimations/cc.gif) ![gif-Animation](GiphyAnimations/ll.gif)![gif-Animation](GiphyAnimations/aa.gif) ![gif-Animation](GiphyAnimations/ff.gif) ![gif-Animation](GiphyAnimations/kk.gif) ![gif-Animation](GiphyAnimations/hh.gif)![gif-Animation](GiphyAnimations/mm.gif) ![gif-Animation](GiphyAnimations/jj.gif) ![gif-Animation](GiphyAnimations/gg.gif) ![gif-Animation](GiphyAnimations/dd.gif)![gif-Animation](GiphyAnimations/ii.gif) ![gif-Animation](GiphyAnimations/bb.gif) ![gif-Animation](GiphyAnimations/oo.gif) ![gif-Animation](GiphyAnimations/pp.gif)
   
 
