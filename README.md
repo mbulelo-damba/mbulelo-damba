@@ -1,26 +1,7 @@
-  
-### Hi there 🖖🏽, 
-### I'm Mbulelo, a Software Developer<div> 
-![gif-Animation](GiphyAnimations/ee.gif) ![gif-Animation](GiphyAnimations/nn.gif) </div>![gif-Animation](GiphyAnimations/cc.gif) ![gif-Animation](GiphyAnimations/ll.gif)![gif-Animation](GiphyAnimations/aa.gif) ![gif-Animation](GiphyAnimations/ff.gif) ![gif-Animation](GiphyAnimations/kk.gif) ![gif-Animation](GiphyAnimations/hh.gif)![gif-Animation](GiphyAnimations/mm.gif) ![gif-Animation](GiphyAnimations/jj.gif) ![gif-Animation](GiphyAnimations/gg.gif) ![gif-Animation](GiphyAnimations/dd.gif)![gif-Animation](GiphyAnimations/ii.gif) ![gif-Animation](GiphyAnimations/bb.gif) ![gif-Animation](GiphyAnimations/oo.gif) ![gif-Animation](GiphyAnimations/pp.gif)
-  
+# Hi, I'm Mbulelo Damba 👋
 
+### Software Developer | Backend Development | API Integration
 
+I'm a passionate Software Developer focused on building backend systems, developing APIs, and integrating enterprise applications. I specialize in C# and .NET technologies, RESTful and SOAP web services, SQL databases, and enterprise integration platforms.
 
-
-
-<!--
-**mbulelo-damba/mbulelo-damba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-  
+I enjoy solving complex technical problems, writing clean and maintainable code, and building reliable solutions that help different systems communicate seamlessly.
